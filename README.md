@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roumya-ranjan" alt="roumya-ranjan" /></a> </p>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 **MCA Graduate || Java Developer**
 
 - 👯 I’m looking to collaborate on **Springboot MVC**
 
