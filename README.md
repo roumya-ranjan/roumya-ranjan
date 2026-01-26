@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Currently based in Hyderabad<br><br>- 🔭 I’m passionate about ... Java <br>- 📚 I'm currently a Job seeker <br>- ⚡ In my free time I ... explore tech stacks</p>
+<p align="left">Currently based in Bengaluru<br><br>- 🔭 I’m passionate about ... Java <br>- 📚 I'm currently a Job seeker <br>- ⚡ In my free time I ... explore tech stacks</p>
 
 ###
 
